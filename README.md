@@ -36,6 +36,14 @@
 
 [![BurpSuite Lab](https://img.shields.io/badge/Project-Learning%20Lab-red?style=for-the-badge&logo=burpsuite)](https://github.com/badat1805/BurpSuite-Web-Pentesting-Lab)
 
+### 🔐 [DVWA Web Vulnerability Analysis](https://github.com/badat1805/DVWA-Web-Vulnerability-Analysis)
+> **Phân tích lỗ hổng Web với DVWA**
+- 🎯 Học SQL Injection, XSS, CSRF, File Inclusion
+- 📸 Screenshots phân tích chi tiết
+- 📋 Hướng dẫn khai thác và phòng chống
+
+[![DVWA Analysis](https://img.shields.io/badge/Project-DVWA%20Analysis-blue?style=for-the-badge&logo=github)](https://github.com/badat1805/DVWA-Web-Vulnerability-Analysis)
+
 ---
 
 ## 📈 GitHub Stats
